@@ -7,12 +7,15 @@ Véritable pokédex, il permet de rechercher tous les pokémons existants, leurs
 
 
 Améliorations prévues : 
+### V2
 - Mode hors ligne consulter les pokémons sauvegardés. 
 - affichage d'informations plus poussées: 
   - stats d'attaque défense /niveaux.
   - lieux d'apparition. 
   - première apparition. 
   - liste des jeux où le pokémon apparait. 
+### V3
+- moteur de recherche par critères physique et ou capacités. 
 
 
 ## Informations générales. 

@@ -15,7 +15,7 @@ Améliorations prévues :
   - liste des jeux où le pokémon apparait. 
 
 
-Informations générales. 
+## Informations générales. 
 L'application est développée dans le langage Dart, sous le framework flutter. elle fonctionne donc sous android, ios, ou desktop Linux/Windows ou Mac. 
 Une version web est envisagée mais flutter web étant encore en beta ce n'est pas la priorité pour le moment. 
 

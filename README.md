@@ -1,16 +1,23 @@
-# fluttedex_api
+# Pokédex
 
-A new Flutter project.
+Projet de classe à présenter au forum de l'étudiant d'arras 2022. 
 
-## Getting Started
+## Description
+Véritable pokédex, il permet de rechercher tous les pokémons existants, leurs capacités, endroits d'apparitions, et même les jeux dans lesquels ils sont presents. 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+Améliorations prévues : 
+- Mode hors ligne consulter les pokémons sauvegardés. 
+- affichage d'informations plus poussées: 
+  - stats d'attaque défense /niveaux.
+  - lieux d'apparition. 
+  - première apparition. 
+  - liste des jeux où le pokémon apparait. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Informations générales. 
+L'application est développée dans le langage Dart, sous le framework flutter. elle fonctionne donc sous android, ios, ou desktop Linux/Windows ou Mac. 
+Une version web est envisagée mais flutter web étant encore en beta ce n'est pas la priorité pour le moment. 
+
+Les données sont tirée de l'api PokéApi dans sa version 2. 
+site web : https://pokeapi.co/

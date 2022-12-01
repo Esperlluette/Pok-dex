@@ -14,6 +14,9 @@ Améliorations prévues :
   - lieux d'apparition. 
   - première apparition. 
   - liste des jeux où le pokémon apparait. 
+### V2.5 
+- Améliorations graphiques.
+- optimisation diverses.
 ### V3
 - moteur de recherche par critères physique et ou capacités. 
 
